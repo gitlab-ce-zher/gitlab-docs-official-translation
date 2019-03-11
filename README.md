@@ -15,7 +15,16 @@ Slack 工作组：[**Gitlab-cn Slack Workplace**](https://join.slack.com/t/gitla
    - 若已向官方提交 PR 再回复 `/pushed`
    - 若被合并再回复 `/merged`
 
-3. 待任务被指派给你的后就可以开始翻译了，对于翻译文稿中涉及到的静态文件，直接沿用英文版的文件（例如 `![english image](/docs/conecept.....)`），不再需要自行拷贝。
+3. Issue 各状态解释
+
+    各状态按流程的顺序排列
+   - `weclome`：由流程机器人自动添加的任务，管理员尚未审批，不可被认领。
+   - `pending`：待认领任务，表示由该任务已由管理员审批，可被者认领的新增文档任务或者有更新的文档任务，译者输入 `/accept` 接受任务。
+   - `Translating`：翻译进行中，任务认领后 Issue 会指派给认领的翻译组成员。
+   - `Pushed`：翻译基本完成后，译者已发送 PR 到文档项目。
+   - `Finished`：PR 已经完成合并，任务关闭。
+
+4. 待任务被指派给你的后就可以开始翻译了，对于翻译文稿中涉及到的静态文件，直接沿用英文版的文件（例如 `![english image](/docs/conecept.....)`），不再需要自行拷贝。
 
 
 ## 新增了一点自动化指令
@@ -30,7 +39,7 @@ Slack 工作组：[**Gitlab-cn Slack Workplace**](https://join.slack.com/t/gitla
 
 ## 发现文档更新怎么办？
 如果发现文档更新，并且根据文档名称在 [Issue 库](https://github.com/gitlab-ce-zher/gitlab-docs-official-translation/issues)中找不到对应的 Issue，可以
-[新建 Issue](https://github.com/gitlab-ce-zher/gitlab-docs-official-translation/issues/new)，Issue 标题写入变更的文件名，例如 `content/docs/reference/config/policy-and-telemetry/adapters/_index.md`，并在 Body 中加入 `@loverto, @bubbleatgit`。这样就可以避免在你进行翻译的同时，Bot 重新将该文件放入任务队列。
+[新建 Issue](https://github.com/gitlab-ce-zher/gitlab-docs-official-translation/issues/new)，Issue 标题写入变更的文件名，例如 `/api/settings.md`，并在 Body 中加入 `@loverto, @bubbleatgit`。这样就可以避免在你进行翻译的同时，Bot 重新将该文件放入任务队列。
 
 ## 翻译注意事项
 
