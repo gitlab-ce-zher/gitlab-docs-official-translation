@@ -3,7 +3,7 @@
 gitlab 官方文档中文翻译和问题追踪工作组，仅用来处理相关任务分派和跟踪。
 
 
-Slack 工作组：[**Gitlab-cn Slack Workplace**](https://join.slack.com/t/gitlab-cn/shared_invite/enQtNDE2OTkwMjkxNzEzLTQwOTcxNTAxMmMxMDU4OTliYTJmYjY5NjY2YzJlNWE3N2FkZjFjM2UzNDU0ZGVlZTliODBhZGUxNjI0ZmNjZmI)
+Slack 工作组：[**Gitlab-cn Slack Workplace**](https://join.slack.com/t/gitlab-cn/shared_invite/enQtNTY4Njg4NzEyMzQxLTQwMGY5Nzc0MTllOTYzYjNhM2NjYWRmMzFlNGY1YThmN2FlNTY1ODcwZmM2NjcxY2I2ZTRmMDEwODhjMTliMmU)
 
 ## 工作流程
 
