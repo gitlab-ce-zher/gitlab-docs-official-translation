@@ -5,6 +5,8 @@ gitlab 官方文档中文翻译和问题追踪工作组，仅用来处理相关�
 
 Slack 工作组：[**Gitlab-cn Slack Workplace**](https://join.slack.com/t/gitlab-cn/shared_invite/enQtNTY4Njg4NzEyMzQxLTQwMGY5Nzc0MTllOTYzYjNhM2NjYWRmMzFlNGY1YThmN2FlNTY1ODcwZmM2NjcxY2I2ZTRmMDEwODhjMTliMmU)
 
+QQ 群：[**GitLab 文档翻译群**](https://shang.qq.com/wpa/qunwpa?idkey=78d01268ad403b4bd9798369a4130e77c277bfacf904a389ff11ab4d1cb97fb0)
+
 ## 工作流程
 
 1. 目前项目的 [Issue](https://github.com/gitlab-ce-zher/gitlab-docs-official-translation/issues) 中包含了尚待翻译的绝大多数文档，要参与的同学可以自行去 Issue 中通过回复 issue 的方式认领，以避免重复工作。整个翻译进度通过 [project](https://github.com/gitlab-ce-zher/gitlab-docs-official-translation/projects/2) 追踪，[查看待领取的 Issue](https://github.com/gitlab-ce-zher/gitlab-docs-official-translation/issues?q=is%3Aissue+is%3Aopen+label%3Apending)。
